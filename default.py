@@ -1,9 +1,9 @@
 # Default shell for a Python 3.x program
 # Copy this and rename it to write your own code
 #
-__author__ = 'Your Name'
+__author__ = 'your name'
 
-# Your class
+# Name of class
 # Name of program
 #
 # Brief description of what program does.
