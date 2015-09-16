@@ -17,8 +17,8 @@ __author__ = 'Devin Simoneaux'
 # Process
 
 for F in range(0,101,10):
-    D = F
-    C = (F-32) * 5 / 9
-    print(D, " Fahrenheit is equal to ", C, " Celsius.")
+    C = F
+    D = (F * 5 / 9) + 32
+    print(C, " Celsius is equal to ", D, " Fahrenheit.")
 
 # Output
